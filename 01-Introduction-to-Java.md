@@ -268,14 +268,3 @@ In this lecture, we learned:
 10. Explain the Java program execution process.
 
 ---
-
-## 📚 Next Lecture
-
-**Lecture 2 – Installing Java Development Kit (JDK) and IntelliJ IDEA/Eclipse**
-
-Topics covered:
-
-- Installing JDK
-- Setting Environment Variables
-- Installing IntelliJ IDEA/Eclipse
-- Verifying Java Installation
